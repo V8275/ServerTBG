@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\ServerTBG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|D:\\UnityProjects\\ServerTBG\\assets\\scripts\\client\\igameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\client\\igameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|D:\\UnityProjects\\ServerTBG\\assets\\scripts\\server\\igameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\server\\igameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|D:\\UnityProjects\\ServerTBG\\assets\\scripts\\client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|D:\\UnityProjects\\ServerTBG\\assets\\scripts\\server\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\server\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|D:\\UnityProjects\\ServerTBG\\assets\\scripts\\gameadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|d:\\unityprojects\\servertbg\\assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|D:\\UnityProjects\\ServerTBG\\assets\\scripts\\core\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|d:\\unityprojects\\servertbg\\assets\\scripts\\core\\abilities\\attackability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\abilities\\attackability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|d:\\unityprojects\\servertbg\\assets\\scripts\\core\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B91BEA9-0D79-F5B8-A4D9-855CB46B1577}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\Ability.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Ability.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\Ability.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Ability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:09:40.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttackAbility.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\Abilities\\AttackAbility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Abilities\\AttackAbility.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\Abilities\\AttackAbility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Abilities\\AttackAbility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:09:30.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Unit.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\Unit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:07:32.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Core\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:06:40.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameAdapter.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\GameAdapter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameAdapter.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\GameAdapter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:57:00.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Server\\GameServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Server\\GameServer.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Server\\GameServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Server\\GameServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:56:37.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameClient.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Client\\GameClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Client\\GameClient.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Client\\GameClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Client\\GameClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:56:02.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameServer.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Server\\IGameServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Server\\IGameServer.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Server\\IGameServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Server\\IGameServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:55:18.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGameClient.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Client\\IGameClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Client\\IGameClient.cs",
+              "ToolTip": "D:\\UnityProjects\\ServerTBG\\Assets\\Scripts\\Client\\IGameClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Client\\IGameClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:53:45.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
